@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #09a6eff1;
+    color: #fdfffc;
+    text-align: center;
+    background-image:url(https://i.pinimg.com/564x/cb/c4/40/cbc4402a7a9503dc6618c333183557b6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color:rgb(244, 57, 6);
+    cursor: pointer;
+}
